@@ -13,3 +13,6 @@ und 2. Feature
 
 
 und noch eins
+
+
+nach delete branch, was passiert dann?
